@@ -5,4 +5,4 @@ horizontal tracks. The sliding block is connected to a spring that stretches and
 We determine constraint equations, create an augmented solution method for two moving parts and 
 animate the motion of the system. 
 
-<img width="1007" height="682" alt="image" src="https://github.com/user-attachments/assets/6b9f29a0-c5c9-4c30-9d6d-5e1d13c72a8f" />
+<img width="503" height="341" alt="image" src="https://github.com/user-attachments/assets/6b9f29a0-c5c9-4c30-9d6d-5e1d13c72a8f" />
