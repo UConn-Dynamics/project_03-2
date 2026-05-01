@@ -6,3 +6,9 @@ We determine constraint equations, create an augmented solution method for two m
 animate the motion of the system. 
 
 <img width="503" height="341" alt="image" src="https://github.com/user-attachments/assets/6b9f29a0-c5c9-4c30-9d6d-5e1d13c72a8f" />
+
+## Animations ftw
+
+<img src="cart_beam_animation.gif" width="500" alt="Cart-beam animation">
+
+<img src="cart_beam_animation_with_trails.gif" width="500" alt="Cart-beam animation with trails">
