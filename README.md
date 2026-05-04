@@ -9,6 +9,6 @@ animate the motion of the system.
 
 ## Animations ftw
 
-<img src="cart_beam_animation.gif" width="500" alt="Cart-beam animation">
+<img src="/images_and_gifs/cart_beam_animation.gif" width="500" alt="Cart-beam animation">
 
-<img src="cart_beam_animation_with_trails.gif" width="500" alt="Cart-beam animation with trails">
+<img src="/images_and_gifs/cart_beam_animation_with_trails.gif" width="500" alt="Cart-beam animation with trails">
